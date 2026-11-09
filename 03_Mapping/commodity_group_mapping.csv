@@ -1,0 +1,70 @@
+﻿source_sheet,source_name,commodity_group
+sales,Alumina,Alumina & Bauxite
+sales,Bauxite,Alumina & Bauxite
+sales,Copper Metal,Copper-Lead-Zinc
+sales,Lead Metal,Copper-Lead-Zinc
+sales,Zinc Metal,Copper-Lead-Zinc
+sales,CHROMITE,Other
+sales,CLAYS,Other
+sales,COAL,Other
+sales,COBALT,Other
+sales,Aggregate,Other
+sales,Gravel,Other
+sales,Rock,Other
+sales,Sand,Other
+sales,Other Construcion Materials,Other
+sales,DIAMONDS,Diamonds
+sales,DIMENSION STONE,Other
+sales,GEMS & SEMI-PRECIOUS STONES,Other
+sales,GOLD,Gold
+sales,GYPSUM,Other
+sales,IRON ORE,Iron Ore
+sales,LIMESAND-LIMESTONE-DOLOMITE,Other
+sales,Spodumene,Lithium
+sales,Lithium Hydroxide,Lithium
+sales,MANGANESE,Other
+sales,Garnet,Mineral Sands
+sales,Ilmenite,Mineral Sands
+sales,Leucoxene,Mineral Sands
+sales,Rutile,Mineral Sands
+sales,Zircon,Mineral Sands
+sales,Synthetic Rutile,Mineral Sands
+sales,"Other (may include Garnet, Monazite, Rutile, Staurolite, Synthetic Rutile, and Heavy Mineral Concentrates)",Mineral Sands
+sales,NICKEL,Nickel
+sales,Condensate,Petroleum
+sales,Crude Oil,Petroleum
+sales,LNG,Petroleum
+sales,LPG - Butane and Propane,Petroleum
+sales,Domestic Gas,Petroleum
+sales,PLATINUM GROUP ELEMENTS,Other
+sales,POTASH,Other
+sales,RARE EARTHS,Other
+sales,SALT,Other
+sales,SILICA SANDS,Other
+sales,SILVER,Other
+sales,Tantalum,Other
+sales,Tin Metal,Other
+sales,OTHER,Other
+royalties,Alumina,Alumina & Bauxite
+royalties,"Copper, Lead & Zinc",Copper-Lead-Zinc
+royalties,Diamonds,Diamonds
+royalties,Gold,Gold
+royalties,Iron Ore,Iron Ore
+royalties,Lithium,Lithium
+royalties,Mineral Sands,Mineral Sands
+royalties,Nickel,Nickel
+royalties,Other Minerals,Other
+royalties,Petroleum,Petroleum
+royalties,North West Shelf Grants,Petroleum
+employment,Alumina and Bauxite,Alumina & Bauxite
+employment,Coal,Other
+employment,Construction Materials,Other
+employment,Copper-Lead-Zinc,Copper-Lead-Zinc
+employment,Diamond,Diamonds
+employment,Gold,Gold
+employment,Iron Ore,Iron Ore
+employment,Lithium,Lithium
+employment,Mineral Sands,Mineral Sands
+employment,Nickel,Nickel
+employment,Salt,Other
+employment,Other,Other
